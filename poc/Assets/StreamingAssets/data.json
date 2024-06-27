@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "Comment une entreprise peut-elle intégrer efficacement les normes HSE (Hygiène, Sécurité et Environnement) dans ses opérations quotidiennes pour améliorer la santé et la sécurité des employés tout en minimisant son impact environnemental ?",
+      "options": [
+        {
+          "answer": "En ne se concentrant que sur la réduction des coûts et en ignorant les impacts environnementaux.",
+          "correct": false
+        },
+        {
+          "answer": "En adoptant des systèmes de gestion conformes aux normes ISO 45001 et ISO 14001, en formant régulièrement les employés et en mettant en œuvre des pratiques de prévention des risques.",
+          "correct": true
+        },
+        {
+          "answer": "En externalisant toutes les tâches liées à la santé, la sécurité et l'environnement à des consultants externes.",
+          "correct": false
+        },
+        {
+          "answer": "En mettant en place des procédures complexes et rigides sans consulter les employés.",
+          "correct": false
+        }
+      ],
+      "explanation": "L'adoption de systèmes de gestion conformes aux normes ISO 45001 et ISO 14001 permet de structurer les efforts HSE de manière cohérente et efficace. La formation régulière des employés garantit qu'ils sont conscients des risques et des meilleures pratiques, tandis que les pratiques de prévention des risques contribuent à réduire les accidents et les impacts environnementaux."
+    },
+    {
+      "question": "test",
+      "options": [
+        {
+          "answer": "En ne se concentrant que sur la réduction des coûts et en ignorant les impacts environnementaux.",
+          "correct": false
+        },
+        {
+          "answer": "En adoptant des systèmes de gestion conformes aux normes ISO 45001 et ISO 14001, en formant régulièrement les employés et en mettant en œuvre des pratiques de prévention des risques.",
+          "correct": true
+        },
+        {
+          "answer": "En externalisant toutes les tâches liées à la santé, la sécurité et l'environnement à des consultants externes.",
+          "correct": false
+        },
+        {
+          "answer": "En mettant en place des procédures complexes et rigides sans consulter les employés.",
+          "correct": false
+        }
+      ],
+      "explanation": "L'adoption de systèmes de gestion conformes aux normes ISO 45001 et ISO 14001 permet de structurer les efforts HSE de manière cohérente et efficace. La formation régulière des employés garantit qu'ils sont conscients des risques et des meilleures pratiques, tandis que les pratiques de prévention des risques contribuent à réduire les accidents et les impacts environnementaux."
+    }
+  ]
+}
